@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Un menu",
+        "desc": "Lorem ipsum",
+        "comment": "Un menu classique",
+        "price": [
+            "40.00"
+        ],
+        "dishes": [
+            {
+                "name": "Plat"
+            },
+            {
+                "name": "Dessert"
+            }
+        ]
+    },
+    {
+        "name": "Menu Végétarien",
+        "desc": "Aucune viande n'est servie - différents assaisonnements",
+        "comment": "A tester",
+        "price": "35.00",
+        "dishes": [
+            {
+                "name": "Salade Ô Zen",
+                "desc": [
+                    "Une salade avec du poulet et des pommes de terre"
+                ],
+                "prix": [
+                    "10.00"
+                ]
+            },
+            {
+                "name": "Poele en fer 89",
+                "prix": [
+                    {
+                        "prix": "5.00",
+                        "taille": "Petite"
+                    },
+                    {
+                        "prix": "10.00",
+                        "taille": "Moyenne"
+                    },
+                    {
+                        "prix": "15.00",
+                        "taille": "Grande"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Menu burgers",
+        "desc": "Pour tous ceux qui ne jurent que pour un hambuger",
+        "comment": "Ca en fait du pain",
+        "price": [
+            "65.00"
+        ],
+        "dishes": [
+            {
+                "name": "Super hâché",
+                "desc": [
+                    "2 steak hâchés frais pur boeuf 120g avec chèvre campagnard lardé"
+                ]
+            },
+            {
+                "name": "Burger le Traditionel",
+                "desc": [
+                    "Garni d'un steak hâché frais pur boeuf",
+                    "1 steak - 120g",
+                    "2 steak - 240g"
+                ]
+            }
+        ]
+    }
+]
